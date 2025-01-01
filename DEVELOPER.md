@@ -108,4 +108,4 @@ repository.
 
 ```bash
 ./packages/language-service/build.sh /path/to/vscode-ng-language-service
-```
+
